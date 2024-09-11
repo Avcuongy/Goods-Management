@@ -8,7 +8,7 @@
 </p>
 - Bật terminal(hỗ trợ git) or git
 </p>
-- Nhập: git clone https://github.com/Avcuongy/Goods-Management.git 
+- Nhập: git clone https://github.com/Avcuongy/Inventory-Management.git 
 </p>
 - File được clone sẽ ở thư mục mà terminal hoặc git đang thực thi
 </p>
