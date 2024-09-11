@@ -6,9 +6,9 @@
 </p>
 - Clone file code xuống máy ! (Nếu có chỉnh sửa lớn)
 </p>
-- Turn terminal(hỗ trợ git) or git
+- Bật terminal(hỗ trợ git) or git
 </p>
-- git clone https://github.com/Avcuongy/Goods-Management.git 
+- Nhập: git clone https://github.com/Avcuongy/Goods-Management.git 
 </p>
 - File được clone sẽ ở thư mục mà terminal hoặc git đang thực thi
 </p>
