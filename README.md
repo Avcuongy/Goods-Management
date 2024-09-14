@@ -1,18 +1,33 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Work+Here+Mấy+Con+Hàng+!;" />
-</h1>
+<div style="text-align:center;">
+    <h1>Inventory Management</h1>
+    <p style="font-size: em; font-weight: normal;">
+        A collaborative project presented by our team as part of the OOP in CSharp.
+        </p>
+    <img src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Pictures/warehouse-management-software.png" alt="Description of Image" style="width: 450px; height: 450px;">
+    </p>
+</div>
 
-<div>
-<h1 align="center">
-Topic: Inventory-Management (Project For OOP CSharp)
-</div>    
-    
+
+# Description: 
 ```
-- Clone file code xuống máy ! (Nếu có chỉnh sửa lớn)
+May be updated, hope so. 😁
+```
+# Members:
 
-- Bật terminal(hỗ trợ git) or git
+| Full Name                            |
+| :----------------------------------- |
+| Đặng Xuân Cường |
+| Nguyễn Trọng Hưởng |
+| Huỳnh Trần Bảo Việt |
+| Trần Viết Gia Huy |
 
-- Nhập: git clone https://github.com/Avcuongy/Inventory-Management.git
+# Note:
+```
+- Clone file code xuống máy ! (Nếu có chỉnh sửa lớn).
 
-- File được clone sẽ ở thư mục mà terminal hoặc git đang thực thi
+- Bật terminal(hỗ trợ git) or git.
+
+- Nhập: git clone https://github.com/Avcuongy/Inventory-Management.git.
+
+- File được clone sẽ ở thư mục mà terminal hoặc git đang thực thi.
 ```
