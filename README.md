@@ -3,7 +3,7 @@
     <p style="font-size: em; font-weight: normal;">
         A collaborative project presented by our team as part of the OOP in CSharp.
         </p>
-    <img src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Pictures/warehouse-management-software.png" alt="Description of Image" style="width: 450px; height: 450px;">
+    <img src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Pictures/warehouse-management-software.png" alt="Description of Image" style="width: 270px; height: 270px;">
     </p>
 </div>
 
