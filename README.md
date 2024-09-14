@@ -4,7 +4,7 @@
 
 <div>
 <h1 align="center">
-# Topic: Inventory-Management (Project For OOP CSharp)
+Topic: Inventory-Management (Project For OOP CSharp)
 </div>    
     
 ```
