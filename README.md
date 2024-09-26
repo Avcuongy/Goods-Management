@@ -33,5 +33,5 @@ May be updated, hope so. 😁
 
 - Tạo branch mới để edit.
 
--Tạo pull request.
+- Tạo pull request.
 ```
