@@ -33,5 +33,5 @@ May be updated, hope so. 😁
 
 - Tạo nhánh mới để thêm feature.
 
-- Tạo pull request
+-Tạo pull request.
 ```
