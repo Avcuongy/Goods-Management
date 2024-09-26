@@ -31,7 +31,7 @@ May be updated, hope so. 😁
 
 - File được clone sẽ ở thư mục mà terminal hoặc git đang thực thi.
 
-- Tạo nhánh mới để thêm feature.
+- Tạo branch mới để edit.
 
 -Tạo pull request.
 ```
